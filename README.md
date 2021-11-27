@@ -1,1 +1,9 @@
-# website-to-manage-research-projects-FRONT
+# Website to manage research projects - FRONTEND
+
+## Modules
+
+The project has 4 modules:
+* Users
+* Projects
+* Inscriptions 
+* Advances
